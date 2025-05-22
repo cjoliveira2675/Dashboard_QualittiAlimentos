@@ -1,0 +1,15 @@
+{
+  "name": "DashboardQualitti",
+  "supportEmail": "claudionor@rotagyn.com.br",
+  "version": "1.0",
+  "isSigned": false,
+  "items": [
+    {
+      "page": "Administration",
+      "url": "https://app.powerbi.com/view?r=eyJrIjoiMmE0YzIyMTgtZjY5Mi00ZjQxLWI1NzUtN2RhN2EzZjkyYWFlIiwidCI6IjM1NGQ5MWFhLWM5NWUtNDI1Yi1iNGJhLTU1ZTk0MWEzNzk0YyJ9",
+      "menuName": {
+        "en": "Dashboard Qualitti Alimentos"
+      }
+    }
+  ]
+}
